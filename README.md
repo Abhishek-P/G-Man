@@ -1,5 +1,5 @@
-# G-Man
-**G**eographical Crop and Agricultural **Man**agement
+# G-Sys
+**G**eographical Crop and Agricultural Management **Sys**tem
 
 The goal of the project is to allow for a map based software for management of agricultural processes and crop. 
 
